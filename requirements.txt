@@ -8,7 +8,6 @@ scipy>=0.15.1
 scikit-learn>=0.18
 matplotlib>=1.4.3
 pandas>=0.19
-
 absl-py==0.9.0
 alabaster==0.7.12
 anaconda-client==1.7.2
@@ -114,7 +113,6 @@ locket==0.2.0
 lxml==4.5.0
 Markdown==3.1.1
 MarkupSafe==1.1.1
-matplotlib==3.2.2
 mccabe==0.6.1
 menuinst==1.4.16
 mistune==0.8.4
